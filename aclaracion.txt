@@ -1,0 +1,7 @@
+Se realizo con
+-bootstrap
+-html5
+-css3
+-jquery
+-php7
+-MVC
